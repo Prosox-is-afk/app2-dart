@@ -1,6 +1,6 @@
-import 'package:app2/home.dart';
+import 'package:app2/UI/home.dart';
 import 'package:flutter/material.dart';
-import 'package:app2/mytheme.dart';
+import 'package:app2/UI/mytheme.dart';
 
 void main() {
   runApp(MyApp2());
